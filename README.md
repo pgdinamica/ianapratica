@@ -1,1 +1,1 @@
-# ianapratica
+# IA na Prática
